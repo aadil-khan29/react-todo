@@ -18,5 +18,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This is a sample react todo app done step-by-step. This sample app was a part of react workshop.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadil-khan29/react-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadil-khan29/react-todo/issues"
+  },
+  "homepage": "https://github.com/aadil-khan29/react-todo#readme"
 }
